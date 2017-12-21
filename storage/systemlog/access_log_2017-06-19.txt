@@ -1,0 +1,6 @@
+06-19-2017 | 10:05:44 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+06-19-2017 | 10:06:09 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/post/login|Mozilla Firefox|windows|||
+06-19-2017 | 12:53:42 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+06-19-2017 | 12:53:45 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/post/login|Mozilla Firefox|windows|||
+06-19-2017 | 16:29:35 |   169.254.146.69|user|Logout|http://localhost/survey/auth/admin/logout/administrator|Mozilla Firefox|windows|||
+06-19-2017 | 16:29:38 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||

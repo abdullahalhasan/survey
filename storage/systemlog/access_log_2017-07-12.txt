@@ -1,0 +1,4 @@
+07-12-2017 | 11:39:11 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+07-12-2017 | 11:40:32 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/post/login|Mozilla Firefox|windows|||
+07-12-2017 | 11:40:35 |   169.254.146.69|user|Admin Dashboard|http://localhost/survey/admin/dashboard|Mozilla Firefox|windows|||
+07-12-2017 | 18:14:44 |   169.254.146.69|user|Logout|http://localhost/survey/auth/admin/logout/administrator|Mozilla Firefox|windows|||

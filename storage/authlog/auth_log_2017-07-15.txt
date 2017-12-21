@@ -1,0 +1,14 @@
+07-15-2017 | 10:04:23 |   169.254.146.69|1|Log In|Mozilla Firefox|windows|||
+07-15-2017 | 11:55:52 |   169.254.146.69|1|Log In|Mozilla Firefox|windows|||
+07-15-2017 | 13:41:51 |   169.254.146.69|1|Log In|Mozilla Firefox|windows|||
+07-15-2017 | 14:16:13 |   169.254.146.69|1|Log In|Mozilla Firefox|windows|||
+07-15-2017 | 15:58:00 |   169.254.146.69|1|Log Out|Mozilla Firefox|windows|||
+07-15-2017 | 17:52:01 |   169.254.146.69|1|Log Out|Mozilla Firefox|windows|||
+07-15-2017 | 17:56:08 |   169.254.146.69|1|Log Out|Mozilla Firefox|windows|||
+07-15-2017 | 17:56:34 |   169.254.146.69|4|Log In|Mozilla Firefox|windows|||
+07-15-2017 | 17:57:10 |   169.254.146.69|4|Log Out|Mozilla Firefox|windows|||
+07-15-2017 | 18:18:00 |   169.254.146.69|4|Log In|Mozilla Firefox|windows|||
+07-15-2017 | 18:20:49 |   169.254.146.69|4|Log In|Mozilla Firefox|windows|||
+07-15-2017 | 18:21:27 |   169.254.146.69|4|Log In|Mozilla Firefox|windows|||
+07-15-2017 | 18:21:54 |   169.254.146.69|4|Log Out|Mozilla Firefox|windows|||
+07-15-2017 | 18:22:37 |   169.254.146.69|4|Log Out|Mozilla Firefox|windows|||

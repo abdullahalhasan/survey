@@ -1,0 +1,2 @@
+06-15-2017 | 09:56:39 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+06-15-2017 | 09:56:44 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/post/login|Mozilla Firefox|windows|||

@@ -1,0 +1,49 @@
+07-10-2017 | 10:06:54 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+07-10-2017 | 10:07:37 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/post/login|Mozilla Firefox|windows|||
+07-10-2017 | 12:39:57 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+07-10-2017 | 12:40:03 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/post/login|Mozilla Firefox|windows|||
+07-10-2017 | 14:07:53 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/post/login|Mozilla Firefox|windows|||
+07-10-2017 | 15:37:55 |   169.254.146.69|user|Logout|http://localhost/survey/auth/admin/logout/administrator|Mozilla Firefox|windows|||
+07-10-2017 | 15:38:00 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+07-10-2017 | 15:38:04 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login?box=register|Mozilla Firefox|windows|||
+07-10-2017 | 15:38:56 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login?box=login|Mozilla Firefox|windows|||
+07-10-2017 | 15:38:59 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login?box=login|Mozilla Firefox|windows|||
+07-10-2017 | 15:39:03 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login?box=register|Mozilla Firefox|windows|||
+07-10-2017 | 15:39:47 |   169.254.146.69|user|Registration|http://localhost/survey/auth/registration|Mozilla Firefox|windows|||
+07-10-2017 | 15:39:51 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+07-10-2017 | 15:54:31 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+07-10-2017 | 15:54:35 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+07-10-2017 | 15:55:12 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/post/login|Mozilla Firefox|windows|||
+07-10-2017 | 15:56:58 |   169.254.146.69|user|Logout|http://localhost/survey/auth/normal/user/logout/rabbi|Mozilla Firefox|windows|||
+07-10-2017 | 15:57:01 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||
+07-10-2017 | 16:07:19 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/post/login|Mozilla Firefox|windows|||
+07-10-2017 | 17:14:02 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:23:09 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:25:16 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:26:16 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:27:13 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:28:39 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:29:13 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:31:08 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:33:14 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:33:56 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:34:56 |   169.254.146.69|user|Admin Dashboard|http://localhost/survey/admin/dashboard|Mozilla Firefox|windows|||
+07-10-2017 | 17:35:01 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:36:00 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:36:24 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:36:35 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:41:03 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:42:34 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:43:03 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:44:14 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:44:19 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:54:44 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 17:58:03 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 18:01:28 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 18:03:29 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 18:05:19 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 18:07:17 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 18:07:23 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 18:07:38 |   169.254.146.69|user|Profile|http://localhost/survey/admin/dashboard/profile|Mozilla Firefox|windows|||
+07-10-2017 | 18:30:17 |   169.254.146.69|user|Logout|http://localhost/survey/auth/admin/logout/administrator|Mozilla Firefox|windows|||
+07-10-2017 | 18:30:22 |   169.254.146.69|user|Sign in|http://localhost/survey/auth/login|Mozilla Firefox|windows|||

@@ -1,0 +1,1 @@
+07-10-2017 | 15:39:48 |   169.254.146.69|user|http://localhost/survey/auth/registration|insert,users|true

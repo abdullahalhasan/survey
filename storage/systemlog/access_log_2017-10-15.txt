@@ -1,0 +1,4 @@
+10-15-2017 | 12:40:51 |   103.4.146.142|user|Sign in|http://survey.dml.com.bd/auth/login|Mozilla Firefox|windows|||
+10-15-2017 | 12:40:52 |   103.4.146.142|user|Admin Dashboard|http://survey.dml.com.bd/admin/dashboard|Mozilla Firefox|windows|||
+10-15-2017 | 13:05:06 |   103.4.146.142|user|Admin Dashboard|http://survey.dml.com.bd/admin/dashboard|Mozilla Firefox|windows|||
+10-15-2017 | 14:30:17 |   103.4.146.142|user|Sign in|http://survey.dml.com.bd/auth/login|Google Chrome|linux|||

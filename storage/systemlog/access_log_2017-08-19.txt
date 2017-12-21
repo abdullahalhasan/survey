@@ -1,0 +1,11 @@
+08-19-2017 | 13:35:09 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/login|Mozilla Firefox|windows|||
+08-19-2017 | 13:35:26 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/post/login|Mozilla Firefox|windows|||
+08-19-2017 | 13:35:27 |   203.188.243.150|user|Admin Dashboard|http://survey.dml.com.bd/admin/dashboard|Mozilla Firefox|windows|||
+08-19-2017 | 13:43:03 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/login|Google Chrome|windows|||
+08-19-2017 | 13:43:26 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/post/login|Google Chrome|windows|||
+08-19-2017 | 13:43:31 |   203.188.243.150|user|Admin Dashboard|http://survey.dml.com.bd/admin/dashboard|Google Chrome|windows|||
+08-19-2017 | 14:29:15 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/login|Mozilla Firefox|windows|||
+08-19-2017 | 14:29:51 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/post/login|Mozilla Firefox|windows|||
+08-19-2017 | 14:29:52 |   203.188.243.150|user|Admin Dashboard|http://survey.dml.com.bd/admin/dashboard|Mozilla Firefox|windows|||
+08-19-2017 | 15:28:44 |   203.188.243.150|user|Logout|http://survey.dml.com.bd/auth/admin/logout/administrator|Mozilla Firefox|windows|||
+08-19-2017 | 15:28:46 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/login|Mozilla Firefox|windows|||

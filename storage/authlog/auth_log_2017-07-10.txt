@@ -1,0 +1,7 @@
+07-10-2017 | 10:07:43 |   169.254.146.69|1|Log In|Mozilla Firefox|windows|||
+07-10-2017 | 14:07:55 |   169.254.146.69|1|Log In|Mozilla Firefox|windows|||
+07-10-2017 | 15:37:57 |   169.254.146.69|1|Log Out|Mozilla Firefox|windows|||
+07-10-2017 | 15:55:14 |   169.254.146.69|3|Log In|Mozilla Firefox|windows|||
+07-10-2017 | 15:57:00 |   169.254.146.69|3|Log Out|Mozilla Firefox|windows|||
+07-10-2017 | 16:07:21 |   169.254.146.69|1|Log In|Mozilla Firefox|windows|||
+07-10-2017 | 18:30:19 |   169.254.146.69|1|Log Out|Mozilla Firefox|windows|||

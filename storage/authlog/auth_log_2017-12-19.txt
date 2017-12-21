@@ -1,0 +1,11 @@
+12-19-2017 | 12:54:57 |   192.168.4.131|56|Log In|Google Chrome|windows|||
+12-19-2017 | 13:01:41 |   192.168.4.131|56|Log Out|Google Chrome|windows|||
+12-19-2017 | 13:02:52 |   192.168.4.131|56|Log Out|Google Chrome|windows|||
+12-19-2017 | 13:10:30 |   192.168.4.131|57|Log Out|Google Chrome|windows|||
+12-19-2017 | 13:10:48 |   192.168.4.131|56|Log Out|Google Chrome|windows|||
+12-19-2017 | 13:12:46 |   192.168.4.131|57|Log In|Google Chrome|windows|||
+12-19-2017 | 13:15:11 |   192.168.4.131|57|Log Out|Google Chrome|windows|||
+12-19-2017 | 13:16:23 |   192.168.4.131|57|Log Out|Google Chrome|windows|||
+12-19-2017 | 13:17:00 |   192.168.4.131|56|Log In|Google Chrome|windows|||
+12-19-2017 | 13:24:58 |   192.168.4.131|56|Log Out|Google Chrome|windows|||
+12-19-2017 | 13:25:45 |   192.168.4.131|1|Log Out|Google Chrome|windows|||

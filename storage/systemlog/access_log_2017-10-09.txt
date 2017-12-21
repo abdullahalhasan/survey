@@ -1,0 +1,8 @@
+10-09-2017 | 15:53:50 |   103.4.146.142|user|Sign in|http://survey.dml.com.bd/auth/login|Google Chrome|windows|||
+10-09-2017 | 15:54:22 |   103.4.146.142|user|Sign in|http://survey.dml.com.bd/auth/post/login|Google Chrome|windows|||
+10-09-2017 | 15:54:24 |   103.4.146.142|user|Admin Dashboard|http://survey.dml.com.bd/admin/dashboard|Google Chrome|windows|||
+10-09-2017 | 18:22:48 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/login|Mozilla Firefox|windows|||
+10-09-2017 | 18:22:58 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/post/login|Mozilla Firefox|windows|||
+10-09-2017 | 18:23:00 |   203.188.243.150|user|Admin Dashboard|http://survey.dml.com.bd/admin/dashboard|Mozilla Firefox|windows|||
+10-09-2017 | 18:25:42 |   203.188.243.150|user|Logout|http://survey.dml.com.bd/auth/admin/logout/administrator|Mozilla Firefox|windows|||
+10-09-2017 | 18:25:44 |   203.188.243.150|user|Sign in|http://survey.dml.com.bd/auth/login|Mozilla Firefox|windows|||
